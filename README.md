@@ -1,2 +1,2 @@
 # cs50
-Harvard CS50 edx class
+Files and projects in and for the CS50 class.
